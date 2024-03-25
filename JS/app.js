@@ -4,22 +4,22 @@ import {dwnProf} from "./card.js"
 
 
 const fSec = {
-    title : "Hello! Luigi",
-    para : "This is an activity that was asked from us to do",
+    title : "Hello! There",
+    para : "This anime called SWORD ART ONLINE",
     clickBtn : "Contact Me",
-    fImg : "OIP.jpg"
+    fImg : "anime1.jpg"
 }
 
 const sSec = {
-    title1 : "PROJECT COMPLETED",
-    imgOne : "OIP1.jpg",
-    para1 : "The airport infrastructure necessarily assumes the presence of lighting and radio electronic devices and systems necessary to ensure the safety of aircraft flights.",
+    title1 : "Others Images Of SAO",
+    imgOne : "anime2.jpg",
+    para1 : "SWORD ART ONLINE is the story of a multiplayer virtual-reality game that takes a deadly turn when players discover they can't escape of their own will but must play to victory or to death.",
     fBtn : "Learn More",
-    imgTwo : "OIP4.jpg",
-    para2 : "Computer Infrastructure means all computers, networks, printers, operating systems, and telecommunications systems used by Customer in the operation of the Licensed Program.",
+    imgTwo : "anime3.jpg",
+    para2 : "The story of the first season follows the adventures of Kazuto (Kirito) Kirigaya and Asuna Yuuki, two players who are trapped in the virtual world of Sword Art Online (SAO). They are tasked to clear all 100 Floors and defeat the final boss in order to be freed from the game.",
     sBtn : "Learn More",
-    imgThr : "OIP4.jpg",
-    para3 : "Road infrastructure includes physical assets like the roads themselves, as well as everything associated with them, for example bus stops, trucking terminals, signage, drainage, and structures such as bridges or tunnels.",
+    imgThr : "anime4.jpg",
+    para3 : "Sword Art Online was the series name before the series ever visited those games. This isn't unique to SAO, and in fact is pretty common. When a series gets popular under a certain name, they'll stick with that name for recognition's sake.",
     tBtn : "Learn More"
 }
 
